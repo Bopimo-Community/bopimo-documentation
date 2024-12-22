@@ -11,6 +11,8 @@ Technically, the launcher is "open-source" since it is licensed under ISC. If yo
 
 That's all we have on the launcher at the moment, more may be found later on, but whether or not the vulnerability will be patched or not is unknown.
 
+**Added note, I found the client CDN and you can get older versions of Bopimo!'s client.
+
 # Client Findings
 Boy could I talk about this all day long. But I'll just sum up the better parts.  
 First off, the client is Godot, if it wasn't already obvious. There are a bunch of Godot scripts and files in the client source code (which I will again remind you, to NOT try to get these files. I did not look into the actual code.) which are, for the better part, showing a lot of behind the scenes. Such findings as rizz.bop and egg.gd truly do make me think of the future. Speaking of which,
