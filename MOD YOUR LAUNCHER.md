@@ -1,5 +1,9 @@
 # Mod Your Launcher
 A guide on creating a launcher modification.
+# Notes
+⚠️ DO NOT change code. We know that you can find it in there, but we do not endorse it or encourage it. ⚠️
+<br>
+We are **NOT** responsible for any damages to your Bopimo! account or files.
 # Unpacking
 To get the ability to modify files in the launcher, you need to install Electron's asar package:
 <br>
@@ -20,3 +24,7 @@ Run:
 ```asar extract app.asar app```
 <br>
 This will extract your app.asar to a folder named app.
+# The Fun Stuff
+You can now navigate to your app folder.
+<br>
+With this, you can change textures.
