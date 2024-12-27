@@ -28,3 +28,15 @@ This will extract your app.asar to a folder named app.
 You can now navigate to your app folder.
 <br>
 With this, you can change textures.
+<br>
+Go to renderer\assets\images, and you can change the logos, background, and even the close/minimise buttons!
+# Wrapping Up
+Are you done and proud of your new creation? Want to actually use it? (WARNING: This will replace your vanilla app.asar with your new modded one. We suggest you back it up somewhere!)
+<br>
+Back to %appdata%/Bopimo!/Launcher/resources, open a terminal there.
+<br>
+Run:
+<br>
+```asar app app.asar```
+<br>
+Its magic! You can now share it and use it as your actual launcher.
