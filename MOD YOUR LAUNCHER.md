@@ -37,6 +37,6 @@ Back to %appdata%/Bopimo!/Launcher/resources, open a terminal there.
 <br>
 Run:
 <br>
-```asar app app.asar```
+```asar pack app app.asar```
 <br>
 Its magic! You can now share it and use it as your actual launcher.
